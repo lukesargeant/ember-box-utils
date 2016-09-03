@@ -1,7 +1,7 @@
 {
   "name": "ember-box-utils",
-  "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "version": "0.1.0",
+  "description": "An Ember Addon providing a utility class for resolving a variety of box operations.",
   "directories": {
     "doc": "doc",
     "test": "tests"
@@ -11,11 +11,11 @@
     "start": "ember server",
     "test": "ember try:each"
   },
-  "repository": "",
+  "repository": "lukesargeant/ember-box-utils",
   "engines": {
     "node": ">= 0.10.0"
   },
-  "author": "",
+  "author": "Luke Sargeant",
   "license": "MIT",
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.2",

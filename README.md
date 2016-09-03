@@ -1,6 +1,6 @@
 # Ember-box-utils
 
-A utility class for resolving a variety of box operations.
+An Ember Addon providing a utility class for resolving a variety of box operations.
 
 ## Quick start
 
