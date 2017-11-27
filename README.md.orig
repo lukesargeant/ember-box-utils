@@ -1,4 +1,4 @@
-# Ember-box-utils
+# Ember-box-utils [![Build Status](https://travis-ci.org/lukesargeant/ember-box-utils.svg?branch=master)](https://travis-ci.org/lukesargeant/ember-box-utils)
 
 An Ember Addon providing a utility class for resolving a variety of box operations.
 
@@ -10,7 +10,7 @@ Install ember-box-utils from the command line.
 ember install ember-box-utils
 ```
 
-Import Box into the file that will use it.
+Import Box.
 
 ```
 import Box from 'ember-box-utils/utils/box';
@@ -104,13 +104,9 @@ Here's a brain dump of additional features that may be worth implementing.
 
 ## How to contribute
 
-* `git clone` this repository
+* `git clone <repository-url>` this repository
+* `cd my-addon`
 * `npm install`
-
-## Running
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
 
 ## Running Tests
 

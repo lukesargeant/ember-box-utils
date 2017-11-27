@@ -1,0 +1,12 @@
+import resolver from './helpers/resolver';
+<<<<<<< HEAD
+import { setResolver } from 'ember-mocha';
+=======
+import {
+  setResolver
+} from 'ember-qunit';
+import { start } from 'ember-cli-qunit';
+>>>>>>> 3ccd00f... message
+
+setResolver(resolver);
+start();
