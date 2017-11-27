@@ -1,6 +1,6 @@
 {
   "name": "ember-box-utils",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "An Ember Addon providing a utility class for resolving a variety of box operations.",
   "keywords": [
     "ember-addon"
