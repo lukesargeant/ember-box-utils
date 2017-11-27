@@ -1,4 +1,4 @@
-# Ember-box-utils
+# Ember-box-utils [![Build Status](https://travis-ci.org/lukesargeant/ember-box-utils.svg?branch=master)](https://travis-ci.org/lukesargeant/ember-box-utils)
 
 An Ember Addon providing a utility class for resolving a variety of box operations.
 
